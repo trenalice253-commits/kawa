@@ -5,9 +5,9 @@
         "user_id": "USER-001",
         "issued_at": 1762032005,
         "expiry": 1764624005,
-        "hw_hash": "fa1cbd89f4367bbf330bb134ecc2ae1dd362a5fa14a4d32b92462dbde7bc2dee"
+        "hw_hash": "fa1cbd89f4367bbf330bb134ecc2ae1dd362a5fa14a4d32b92462dbde7bc2dee5"
       },
-      "sig": "5bdcd9e9a7137d09863222ec5eefb39e8ccec188af97bdc9f02134c4c7b3e7864310cb4469dc2f8e087eb4efa26262a1a9ab52f95c054f50069ae41edf573c0e"
+      "sig": "5bdcd9e9a7137d09863222ec5eefb39e8ccec188af97bdc9f02134c4c7b3e7864310cb4469dc2f8e087eb4efa26262a1a9ab52f95c054f50069ae41edf573c0e5"
     }
   },
   "revoked": [],
