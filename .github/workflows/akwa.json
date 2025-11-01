@@ -1,0 +1,16 @@
+{
+  "licenses": {
+    "2dc4c6fbc83c5f2e8a495d09c6aac9454d865f84c10a57fad797b08f63525ea3": {
+      "payload": {
+        "user_id": "USER-001",
+        "issued_at": 1761997498,
+        "expiry": 1764541494,
+        "hw_hash": "2dc4c6fbc83c5f2e8a495d09c6aac9454d865f84c10a57fad797b08f63525ea3"
+      },
+      "sig": "a89f21d78dfc54e8ce890f9c2c0181e3f1def9164b3eb64e4e0624e8be67d03525b76a18f484af9ea5c50040af0acb423042242e504c1431c277671ca399f707"
+    }
+  },
+  "revoked": [],
+  "crl_check_interval": 15,
+  "crl_timeout": 5
+}
