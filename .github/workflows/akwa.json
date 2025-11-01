@@ -2,10 +2,10 @@
   "licenses": {
     "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
       "payload": {
-        "user_id": "USER-0015",
+        "user_id": "USER-001",
         "issued_at": 1762017124,
         "expiry": 1764609124,
-        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d35"
+        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
       },
       "sig": "8afce620c5e7ef9a4119f49635f4846d1fe4fd621546543ab1d0f9cb556b7e1ef239bad9d17aacf17c14007ce0f42296a038a57e72950ba5e8400daf04b10a05"
     }
