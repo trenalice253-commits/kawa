@@ -2,12 +2,12 @@
   "licenses": {
     "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
       "payload": {
-        "user_id": "USER-001",
-        "issued_at": 1762043509,
-        "expiry": 1764635509,
+        "user_id": "sandboxx",
+        "issued_at": 1762109859,
+        "expiry": 1764701859,
         "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
       },
-      "sig": "665e2aeeeb28a616235f7af938f54d4f9d28719e1e21d37e480f2abcbf257861f7bef977968a154c4aef3791a80140d07f114b7d92a9a9ef8e91efbf253c2600"
+      "sig": "dbd6913bf5a8771e20c628045f1cd5ab7cc83a1b216030fee430a106dd1dd8508f087eb616422dcc346ced9bef489911097c72d927de72cf87c1b28754060e0e"
     }
   },
   "revoked": [],
