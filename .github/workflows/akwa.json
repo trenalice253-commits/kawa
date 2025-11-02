@@ -2,17 +2,15 @@
   "licenses": {
     "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
       "payload": {
-        "user_id": "sandboxx",
-        "issued_at": 1730577600,
-        "expiry": 1762113600,
+        "user_id": "USER-001",
+        "issued_at": 1762043509,
+        "expiry": 1764635509,
         "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
       },
-      "sig": "a5ed8200d366df7a7f58369d900292a89d5d914c93c89239801bacac21dc99083e9b1dcd86497a621b4e644bc025366287e8ad2a19bb2fa1a739e73d6c9e020c"
+      "sig": "665e2aeeeb28a616235f7af938f54d4f9d28719e1e21d37e480f2abcbf257861f7bef977968a154c4aef3791a80140d07f114b7d92a9a9ef8e91efbf253c2600"
     }
   },
   "revoked": [],
-  "crl_url": "",
-  "crl_timeout": 5,
-  "crl_check_interval": 300,
-  "updated_at": 1730577600
+  "crl_check_interval": 15,
+  "crl_timeout": 5
 }
