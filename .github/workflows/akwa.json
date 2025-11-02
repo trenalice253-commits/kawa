@@ -3,11 +3,11 @@
     "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
       "payload": {
         "user_id": "USER-001",
-        "issued_at": 1762032005,
-        "expiry": 1764624005,
+        "issued_at": 1762043509,
+        "expiry": 1764635509,
         "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
       },
-      "sig": "0b472f2070a110c07a37f3af4bff601c49e9327c8f8d17483edd59cbd723e0276261c2d614b303a5fb9daefae20b27b5d287212c8ce49e7c386e1a257ae9a10f"
+      "sig": "665e2aeeeb28a616235f7af938f54d4f9d28719e1e21d37e480f2abcbf257861f7bef977968a154c4aef3791a80140d07f114b7d92a9a9ef8e91efbf253c2600"
     }
   },
   "revoked": [],
