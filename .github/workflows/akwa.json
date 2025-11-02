@@ -1,5 +1,6 @@
 {
   "licenses": {
+
     "6bbefa03cd39106e46f73cdc977afb3462770d80060945f8a7d11ee04f1bfb0e": {
       "payload": {
         "user_id": "USER-001",
@@ -8,7 +9,27 @@
         "hw_hash": "6bbefa03cd39106e46f73cdc977afb3462770d80060945f8a7d11ee04f1bfb0e"
       },
       "sig": "6c6f92f47cfa48f5c00b0284a51741d60f64d2810303be991ec9b102f4c3cea72fe181b6fa67ddadb466702a71757f5bc6478219fe6e8729c6493c0d8f02e001"
+    },
+
+  "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
+      "payload": {
+        "user_id": "AKWAdev",
+        "issued_at": 1762064905,
+        "expiry": 1764656905,
+        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
+      },
+      "sig": "af4cee177d3963146e5a20e1f5755db6ba0892177fcf2fd1d30a1b9ac7a4e9ad2b7db35444fc4ca20e18fa27b8b68add4f4c42cdd55386e1e7076c9a6250950d"
     }
+
+
+
+
+
+
+
+
+
+    
   },
   "revoked": [],
   "crl_check_interval": 15,
