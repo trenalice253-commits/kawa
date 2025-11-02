@@ -9,14 +9,14 @@
       },
       "sig": "d7e840c4c62d76ae6c1f4e1d6742a2ef84b1d7c20270aa29a97bde2a718efd5fff2f5718c9cff43f326c1a90dd7f87edbd6b6c9f66e498e8685645fba0d2fd09"
     },
-    "6bbefa03cd39106e46f73cdc977afb3462770d80060945f8a7d11ee04f1bfb0e": {
+    "6272b50094e634e6ee24abea943d23cf199272f33208ced89cbdec1421f58c3e": {
       "payload": {
-        "user_id": "USER-001",
-        "issued_at": 1762102742,
-        "expiry": 1764694742,
-        "hw_hash": "6bbefa03cd39106e46f73cdc977afb3462770d80060945f8a7d11ee04f1bfb0e"
+        "user_id": "sandboxx",
+        "issued_at": 1762103792,
+        "expiry": 1764695792,
+        "hw_hash": "6272b50094e634e6ee24abea943d23cf199272f33208ced89cbdec1421f58c3e"
       },
-      "sig": "a48be0566421355ffe8561b5e210ec05dbaf2e8af27778febb03ccb0da107b5bc271ca1d45a9674e532dc5cfe8e4e45b916482f9d0455c6ec4fbda9a001f8d06"
+      "sig": "bf1779b7dc1bb4ad4bb827a65f11ae4b8385c3dec7f43e3227a9714157c4e897330d1bab6e14599876515ce4f25b388222f8de2d9eed3fab7a65ef5c9ba26008"
     }
   },
   "revoked": [],
