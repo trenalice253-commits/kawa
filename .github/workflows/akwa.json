@@ -3,14 +3,16 @@
     "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
       "payload": {
         "user_id": "sandboxx",
-        "issued_at": 1762108758,
-        "expiry": 1764700758,
+        "issued_at": 1730577600,
+        "expiry": 1762113600,
         "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
       },
       "sig": "a5ed8200d366df7a7f58369d900292a89d5d914c93c89239801bacac21dc99083e9b1dcd86497a621b4e644bc025366287e8ad2a19bb2fa1a739e73d6c9e020c"
     }
   },
   "revoked": [],
-  "crl_check_interval": 15,
-  "crl_timeout": 5
+  "crl_url": "",
+  "crl_timeout": 5,
+  "crl_check_interval": 300,
+  "updated_at": 1730577600
 }
