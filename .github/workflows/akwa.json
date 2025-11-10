@@ -1,13 +1,13 @@
 {
   "licenses": {
-    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
+    "0a4059b7f8f7cf0a8406f39bf7c86a2a046a14cd895776b8534a57ec243ea319": {
       "payload": {
-        "user_id": "sandboxx",
-        "issued_at": 1762109859,
-        "expiry": 1764701859,
-        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
+        "user_id": "akwa",
+        "issued_at": 1762786789,
+        "expiry": 1794322789,
+        "hw_hash": "0a4059b7f8f7cf0a8406f39bf7c86a2a046a14cd895776b8534a57ec243ea319"
       },
-      "sig": "dbd6913bf5a8771e20c628045f1cd5ab7cc83a1b216030fee430a106dd1dd8508f087eb616422dcc346ced9bef489911097c72d927de72cf87c1b28754060e0e"
+      "sig": "685d064de69420b808652322166a98494781bfdc70947705bac3923e94e354f363d7be1e16e3198dc72533d6b0b3a6d05305fe0b7d53a5737abeb46581befd06"
     },
 
     "5617d54fd712fbb76da09b69044ccc20172aa82d4c0d37ff348b3e268e7680b7": {
