@@ -27,15 +27,16 @@
       },
       "sig": "e3e6ba65a25b88eed96b761ab177c5a64d440fc23b6b48838ee7816f1bc2725808ff14b37d0cec7226ab89a5ad8c12f355c30e06b9ea9e0fa546d01ef08eaa0a"
     },
-    "44527fda147d2b65aad40236e69dab19cbe0a558b5a8cfbb83e51adf23fb53aa": {
+    "f98a64d2c22f80c46d008a582fe74f19bd6cb7d43ce8317203daf32f8630cba2": {
       "payload": {
-        "user_id": "sandbox",
-        "issued_at": 1762805617,
-        "expiry": 1794341617,
-        "hw_hash": "44527fda147d2b65aad40236e69dab19cbe0a558b5a8cfbb83e51adf23fb53aa"
+        "user_id": "USER_ID",
+        "issued_at": 1762814531,
+        "expiry": 1794350531,
+        "hw_hash": "f98a64d2c22f80c46d008a582fe74f19bd6cb7d43ce8317203daf32f8630cba2"
       },
-      "sig": "6966b169ad67c4b42830c52e631dcbac849bcbc80482fc7814bb1fa2cfefcf0fcaf515dad684094416f127a8f7c665a80ef8ee782a0a9d8344c311a37da9e90a"
+      "sig": "f29df5401e23e6aa9e93e99b25912591a98d2b20fda8a2dbc03af300fe3b5f742d534f3e38f50186626cdd41c33596a0f853963aa0369c001116adc0bd88c501"
     }
+    
   },
   "revoked": [],
   "crl_check_interval": 15,
