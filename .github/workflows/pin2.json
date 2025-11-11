@@ -8,6 +8,15 @@
         "hw_hash": "0a4059b7f8f7cf0a8406f39bf7c86a2a046a14cd895776b8534a57ec243ea319"
       },
       "sig": "27c1363a59ff273ab35952f0f377dcadaaf9ceb97880ddf8fc5621a85458bf7765dd8e0196aa9f2dc7dd04625ef83dc93e5d9e94fa039e05d9950ecdb5a05d02"
+    },
+    "426b2c558ec89e68c3d49653e34299b2e335c415ae6a9a1a6fc833f9b53ca1b7": {
+      "payload": {
+        "user_id": "sandbox",
+        "issued_at": 1762824909,
+        "expiry": 1794360909,
+        "hw_hash": "426b2c558ec89e68c3d49653e34299b2e335c415ae6a9a1a6fc833f9b53ca1b7"
+      },
+      "sig": "b2662d9ce29829e6ac46b269251390f7ab21a89b637a8afcefbb02e8fd1b9be5c03e6858a2cbee8366b5a2c219db9db1da0392075d55a0ea5f6f605d12cd2201"
     }
   },
   "revoked": [],
