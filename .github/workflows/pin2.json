@@ -17,6 +17,15 @@
         "hw_hash": "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73"
       },
       "sig": "1a7c752cafc9f29b02e8aa86117f1211c5c074c5d1b5ceb68476066afe257b95ca675b201c0a361a3b223a270baa5c5a2b34a60b27005d4d453f706b54282e0c"
+    },
+    "4ffeb18d9ca813719fa189926f8135b1154498502c4e1bd89a90aac8ac3a7434": {
+      "payload": {
+        "user_id": "$ALAH",
+        "issued_at": 1762879018,
+        "expiry": 1770655018,
+        "hw_hash": "4ffeb18d9ca813719fa189926f8135b1154498502c4e1bd89a90aac8ac3a7434"
+      },
+      "sig": "f9db68acc227e23dd9186a0a162af5e0c8f4fc6cf012bb79a03f82f00458b0d3baf5e7cbbe179218e164418f01f835f7682913c3b91ff647a3a827d10b539107"
     }
   },
   "revoked": [],
