@@ -1,15 +1,8 @@
 {
-  "licenses": {
-    "5617d54fd712fbb76da09b69044ccc20172aa82d4c0d37ff348b3e268e7680b7": {
-      "payload": {
-        "user_id": "ismail",
-        "issued_at": 1762111591,
-        "expiry": 1777663591,
-        "hw_hash": "5617d54fd712fbb76da09b69044ccc20172aa82d4c0d37ff348b3e268e7680b7"
-      },
-      "sig": "68b2fb08a4d3005cc87202c24bebc4c803d254164935bb2a4cbf454a1118c9053abbf0058488ff02044c46f871817ce7ef02b80c0db5a538106b860dc0200b0d"
-    }
-  },
+  "devices": [
+    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3",
+    "REPLACE_WITH_YOUR_HW_HASH_2"
+  ],
   "revoked": [],
   "crl_check_interval": 15,
   "crl_timeout": 5
