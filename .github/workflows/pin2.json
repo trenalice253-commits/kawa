@@ -1,7 +1,6 @@
 {
   "devices": [
-    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3",
-    "REPLACE_WITH_YOUR_HW_HASH_2"
+    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
   ],
   "revoked": [],
   "crl_check_interval": 15,
