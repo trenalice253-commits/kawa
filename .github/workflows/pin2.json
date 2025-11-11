@@ -1,13 +1,13 @@
 {
   "licenses": {
-    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
+    "0a4059b7f8f7cf0a8406f39bf7c86a2a046a14cd895776b8534a57ec243ea319": {
       "payload": {
-        "user_id": "akwais",
-        "issued_at": 1762824388,
-        "expiry": 1765416388,
-        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
+        "user_id": "akwadev",
+        "issued_at": 1762824538,
+        "expiry": 1765416538,
+        "hw_hash": "0a4059b7f8f7cf0a8406f39bf7c86a2a046a14cd895776b8534a57ec243ea319"
       },
-      "sig": "052529579b8815cbe4c9e0b0843d5f50ffc378891e18b6996a30108cdeb0759b8892a9c35fdabb9dc7ce2a6ff3d7494687725d617f8bffe557817a99f666f806"
+      "sig": "27c1363a59ff273ab35952f0f377dcadaaf9ceb97880ddf8fc5621a85458bf7765dd8e0196aa9f2dc7dd04625ef83dc93e5d9e94fa039e05d9950ecdb5a05d02"
     }
   },
   "revoked": [],
