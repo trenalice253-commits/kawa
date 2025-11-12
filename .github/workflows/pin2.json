@@ -20,12 +20,12 @@
     },
     "2e913ec400ed27fe01dea89a67e4899e2ce1e5a87b50ca7dabff9ed2b6dbc957": {
       "payload": {
-        "user_id": "akwadev",
-        "issued_at": 1762906553,
-        "expiry": 1794442553,
+        "user_id": "akwa",
+        "issued_at": 1762906670,
+        "expiry": 1770682670,
         "hw_hash": "2e913ec400ed27fe01dea89a67e4899e2ce1e5a87b50ca7dabff9ed2b6dbc957"
       },
-      "sig": "338803d75cdf849b3008813deb83128822afc176ad51bbf5edcb3d071b20ab040131c2c2cd9dd5a803dc3c91d404f57fd1ed36dc4f5386d4d698e5084b905606"
+      "sig": "75d58a5ea87144f901ca60d058e64e88b97013962b3839cd9c34aba8b73c9907c484a36236d0cb4833caea0cce510b246084539b371e8455ba315e1bfb548c0d"
     }
   },
   "revoked": [],
