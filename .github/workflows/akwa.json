@@ -3,11 +3,11 @@
     "2e913ec400ed27fe01dea89a67e4899e2ce1e5a87b50ca7dabff9ed2b6dbc957": {
       "payload": {
         "user_id": "AKWA_DEV",
-        "issued_at": 1767466423,
-        "expiry": 1799002423,
+        "issued_at": 1767466550,
+        "expiry": 1799002550,
         "hw_hash": "2e913ec400ed27fe01dea89a67e4899e2ce1e5a87b50ca7dabff9ed2b6dbc957"
       },
-      "sig": "39319623cf7ab30fd73333ae1be277d7f336d68f03205ec6e58b614c7a32046894e623655314387f3a4e8cd636acaeac0e39152798ab4835905ff5d8417d0401"
+      "sig": "4206ec3109eaf7bf73b91268ac0d0fad70bb3c56379c8fa121c5184e98b7d1f4847fb4e82fc2b3cda4000e7f89f4950130d2d03b5a40c11237bcecbaf3e88509"
     }
   },
   "revoked": [],
