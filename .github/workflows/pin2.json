@@ -35,15 +35,6 @@
         "hw_hash": "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73"
       },
       "sig": "7455db375b5039d3d455ccdaaec9075d1d41723a59e53ffc28655a0b3b34c077bb9c3860911db63fcb48c02589833c5bf1b6b4632cc878f022b2df9535c71b06"
-    },
-    "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
-      "payload": {
-        "user_id": "akwa_dev",
-        "issued_at": 1769028902,
-        "expiry": 4922628902,
-        "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
-      },
-      "sig": "0fe6c3481904a6c4756c58698d934314be7e1257cce05ff860239c6e03b2ef99a5ddcff8893728b029767adfd66a33a8a8dced479659007084c1f31f8946e809"
     }
   },
   "revoked": [],
