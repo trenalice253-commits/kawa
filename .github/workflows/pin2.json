@@ -1,40 +1,13 @@
 {
   "licenses": {
-    "7616ac8b69fb88f14e8e73ee33a52158177039986bf0033b0ad3d65883cbd61a": {
+    "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
       "payload": {
-        "user_id": "saliha",
-        "issued_at": 1767799193,
-        "expiry": 1799335193,
-        "hw_hash": "7616ac8b69fb88f14e8e73ee33a52158177039986bf0033b0ad3d65883cbd61a"
+        "user_id": "akwadev",
+        "issued_at": 1769032428,
+        "expiry": 4922632428,
+        "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
       },
-      "sig": "aea48c667c39f9449e37af814d918a045c63cbfdfef9f1535d42231012b1d73ffc92a694aca6a63f6f55ae68800cdb73c983d18efd987451eec99ab32e270907"
-    },
-    "f09dacb8e975ff83f0e053091a20375d67acbd0cf9dd0bef83339d4bc3045a67": {
-      "payload": {
-        "user_id": "Hamza",
-        "issued_at": 1767810550,
-        "expiry": 1799346550,
-        "hw_hash": "f09dacb8e975ff83f0e053091a20375d67acbd0cf9dd0bef83339d4bc3045a67"
-      },
-      "sig": "534e3c305712b107a126935617bdc3b660465433ca7afe4530ba8f227b46b5a506559573680c11ff1f3ace693d26dec4a0389c25b4302871f0c8fc568bdd3f03"
-    },
-    "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73": {
-      "payload": {
-        "user_id": "ismail",
-        "issued_at": 1767810570,
-        "expiry": 1799346570,
-        "hw_hash": "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73"
-      },
-      "sig": "7455db375b5039d3d455ccdaaec9075d1d41723a59e53ffc28655a0b3b34c077bb9c3860911db63fcb48c02589833c5bf1b6b4632cc878f022b2df9535c71b06"
-    },
-    "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
-      "payload": {
-        "user_id": "sarra",
-        "issued_at": 1769032335,
-        "expiry": 1800568335,
-        "hw_hash": "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92"
-      },
-      "sig": "28e03e5c46ebae9c730f506b1e8c5542f44760e62b22a55b1e0231dbf2ded37d0ef131ea1daa1e06ad1326b481c078c9aed0cc9605396c6c2584bde1ace75705"
+      "sig": "b53da3608b48c65baa705d9921edcbb896d802fd1b5cf700010ad7a43be31bb54252e8bbebd0fff4422c21839661bbb8e5df211a8d5cb9bfea1c101d42b7af08"
     }
   },
   "revoked": [],
