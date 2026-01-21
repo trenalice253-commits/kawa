@@ -1,33 +1,14 @@
 {
   "licenses": {
-    "5617d54fd712fbb76da09b69044ccc20172aa82d4c0d37ff348b3e268e7680b7": {
+    "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
       "payload": {
-        "user_id": "ismail",
-        "issued_at": 1762111591,
-        "expiry": 1777663591,
-        "hw_hash": "5617d54fd712fbb76da09b69044ccc20172aa82d4c0d37ff348b3e268e7680b7"
+        "user_id": "akwadev",
+        "issued_at": 1769032428,
+        "expiry": 4922632428,
+        "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
       },
-      "sig": "68b2fb08a4d3005cc87202c24bebc4c803d254164935bb2a4cbf454a1118c9053abbf0058488ff02044c46f871817ce7ef02b80c0db5a538106b860dc0200b0d"
-    },
-    "6efe01139a52a57445938adeb66e4fc6d30cea95fa0898d8356b93bdf296a1b1": {
-      "payload": {
-        "user_id": "salah",
-        "issued_at": 1762275150,
-        "expiry": 1795107150,
-        "hw_hash": "6efe01139a52a57445938adeb66e4fc6d30cea95fa0898d8356b93bdf296a1b1"
-      },
-      "sig": "9cd92383bd10049c20be14f249314d1656563a7272f738635eda4e03fc2ff6f546c51a49e17bb7fdf8073e56ff699bf140abcc48214697fdf66c3b18380b7906"
-    },
-    "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3": {
-      "payload": {
-        "user_id": "AKWA",
-        "issued_at": 1762869864,
-        "expiry": 1778421864,
-        "hw_hash": "aafec17af2de79740e5851f837d22062406c683df7c9045a7a6836d512bc01d3"
-      },
-      "sig": "f996bf1c6dccef563df6bd13812999295d2aacfd069f5737130f70d396452dafef8dc6e1835ccb7e2d1f0518d35126d58a7435da27880b7af1b5ec91b9004c07"
+      "sig": "b53da3608b48c65baa705d9921edcbb896d802fd1b5cf700010ad7a43be31bb54252e8bbebd0fff4422c21839661bbb8e5df211a8d5cb9bfea1c101d42b7af08"
     }
-    
   },
   "revoked": [],
   "crl_check_interval": 15,
