@@ -26,6 +26,15 @@
         "hw_hash": "2780a3fc7c85105437585ef4ddcf77f3e2dd20392e72be97e25d3a6a9d5e6168"
       },
       "sig": "8a3232f8a76625f7c04b48207ebd66c87258a9690afe67098e2aa5caea2192926f00bf81dd7a307a543bb33568f9fe1f6c11940a778c5eadd454255207e5a90c"
+    },
+    "f42bb7d97cc2550423df1375b69d062be2991420e3392fd5fff847eae9a2772e": {
+      "payload": {
+        "user_id": "ZAHRA",
+        "issued_at": 1769108135,
+        "expiry": 4922708135,
+        "hw_hash": "f42bb7d97cc2550423df1375b69d062be2991420e3392fd5fff847eae9a2772e"
+      },
+      "sig": "bdbf3d8a4182fbba95d15eab5eb37d30d334c077e3bb4a0d7ba60da43657773dbba8d50d92692632c55a42c10e53bfcc4683e5067e391b9853bdd603ca4d0f07"
     }
   },
   "revoked": [],
