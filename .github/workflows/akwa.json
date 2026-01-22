@@ -48,11 +48,11 @@
     "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
       "payload": {
         "user_id": "sara",
-        "issued_at": 1769088663,
-        "expiry": 1800624663,
+        "issued_at": 1769089865,
+        "expiry": 4922689865,
         "hw_hash": "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92"
       },
-      "sig": "a55d1efef9d5d0d121d3991bd89ac8a292af0c22b32d6ee65dde9793506941308cf43e0df05744af9e421572e54c897c20d934dc9601ee0da28c166bfee8b606"
+      "sig": "e9cb987202b9ddc59acfd28ccc9037535f99b02afc4a41f0b842043cfe0f5223b74f65bce3c771777a461153d0366e67c32c7ce0f2c07eccf19e68a69aa22201"
     }
   },
   "revoked": [],
