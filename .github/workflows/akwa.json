@@ -36,15 +36,6 @@
       },
       "sig": "c60ff3efb33709ca809bd5a5f6062975cb3376f2c0ca8a14e0abec2dadc71e117001973648135808f910b22a22021e37cce393d793f735733cbe42cd7162bc04"
     },
-    "f09dacb8e975ff83f0e053091a20375d67acbd0cf9dd0bef83339d4bc3045a67": {
-      "payload": {
-        "user_id": "akwa2",
-        "issued_at": 1767119323,
-        "expiry": 1798655323,
-        "hw_hash": "f09dacb8e975ff83f0e053091a20375d67acbd0cf9dd0bef83339d4bc3045a67"
-      },
-      "sig": "5a7a1440cc75c4e7c74a6cdd7a14a70748f29d7846c02f5d8c16ec3530e6a1e09f29dc1c4b11cdeb8964eacbb2c94fa90fc59d0884668fac29acc150bf7fe90c"
-    },
     "b49959cfae241d8bd7703ee62fff9ba60fee9d48c16905daae9086d94e1ebcea": {
       "payload": {
         "user_id": "mohamed",
@@ -54,23 +45,14 @@
       },
       "sig": "752066bbeeb8adf90dc018c02633f92f0660a1c6ce19d5293656e912da8af4be71487c9caf6ae1b387338a9aeb3c13268cf59b5d7caa2c2a5c8956665075550d"
     },
-    "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
-      "payload": {
-        "user_id": "sara",
-        "issued_at": 1769014732,
-        "expiry": 1800550732,
-        "hw_hash": "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92"
-      },
-      "sig": "af2cdd9b2b021c58fcf3922cd62c46780b10b67c4e7e9e3e6b35e425eda6ee9690363d318357bd89eef7e4f802abc973dff1fb6b814529416508c24eff9f0e08"
-    },
     "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
       "payload": {
-        "user_id": "akwadev",
-        "issued_at": 1769067873,
-        "expiry": 4922667873,
+        "user_id": "akwa",
+        "issued_at": 1769068173,
+        "expiry": 1800604173,
         "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
       },
-      "sig": "377fc769f1d21c281c9a1e8605910a707a4f0b22df279ce5b581a50cc806ff48665f11e3b945aefae6dd64802b6c1e28c046d6597cabbb69638e77c9b53aef0e"
+      "sig": "451d6f56bcb1ed9e60dc9676718fc7f47b486ee3f8dd52f63da616046750561514cfbb899fc038dd411f4875f29d827e106bc0cc157c00b06cbebaa05072860e"
     }
   },
   "revoked": [],
