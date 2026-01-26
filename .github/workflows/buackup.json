@@ -1,16 +1,17 @@
 {
   "licenses": {
-    "8505a6b612f3e64eb64439b23a11cf360b4f73ff1df56c8df5ffd947bc78998f": {
+    "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
       "payload": {
-        "user_id": "sss",
-        "issued_at": 1769434928,
-        "expiry": 1800970928,
-        "hw_hash": "8505a6b612f3e64eb64439b23a11cf360b4f73ff1df56c8df5ffd947bc78998f"
+        "user_id": "akwa",
+        "issued_at": 1769300052,
+        "expiry": 1800836052,
+        "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
       },
-      "sig": "117d8dd1f5a24fd54971cb1f1c36b787684d593438b0df819af82aeb2166828a1ca68891af7f729ee83a851d04c86d5237c9430e1d8ea91a607bd4ecc72ac307"
+      "sig": "14c667e3584ac2345f8f2f67fd07fc4bf6b214f50db2a763e5ae248869fe022ed5c69b1e3e40ff7442ff53457ba4c2345a787e03bad38e23b794dee84a721c07"
     }
   },
   "revoked": [],
   "crl_check_interval": 15,
-  "crl_timeout": 5
+  "crl_timeout": 5,
+  "config_sig": "90e5c0f435170a821c394a1a37adf056b60b54ee9bd8800511039cf1d46d86f21b4359ca9ae8c32c940d40b52af7335746d4699ce27fb66b6710c8f856a3d106"
 }
