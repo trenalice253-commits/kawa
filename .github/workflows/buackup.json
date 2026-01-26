@@ -2,16 +2,42 @@
   "licenses": {
     "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
       "payload": {
-        "user_id": "akwa",
-        "issued_at": 1769300052,
-        "expiry": 1800836052,
+        "user_id": "akwadev",
+        "issued_at": 1769032428,
+        "expiry": 4922632428,
         "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
       },
-      "sig": "14c667e3584ac2345f8f2f67fd07fc4bf6b214f50db2a763e5ae248869fe022ed5c69b1e3e40ff7442ff53457ba4c2345a787e03bad38e23b794dee84a721c07"
+      "sig": "b53da3608b48c65baa705d9921edcbb896d802fd1b5cf700010ad7a43be31bb54252e8bbebd0fff4422c21839661bbb8e5df211a8d5cb9bfea1c101d42b7af08"
+    },
+    "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
+      "payload": {
+        "user_id": "sara",
+        "issued_at": 1769032813,
+        "expiry": 1800568813,
+        "hw_hash": "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92"
+      },
+      "sig": "9c110258d6a6147e48cfd3fc12f8b514340f8832089f2499fd58744f7f127f19bf11d2842a1cb1fad33374c1bcff659cd4ab3745a36e69a4790fd4d1e0706009"
+    },
+    "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73": {
+      "payload": {
+        "user_id": "Ismail_Rca",
+        "issued_at": 1769072742,
+        "expiry": 1800608742,
+        "hw_hash": "b8a7fee9776a9c9a3686ac41542f2836511c3cb654bd96802333ce12e3fbad73"
+      },
+      "sig": "951123ca601a9f7022c04ceab53c73f71167ebd33966f8cb6d5ce98b6439a09e78c56dd4eea54694f34169fe7dba01892965ae9422494596c503b74c4963d20f"
+    },
+    "8f79fdcd06b2753143a862bcba3b3d8e04b30196c32019bb8e568e7b1d819ee4": {
+      "payload": {
+        "user_id": "HAMZA",
+        "issued_at": 1769115199,
+        "expiry": 1800651199,
+        "hw_hash": "8f79fdcd06b2753143a862bcba3b3d8e04b30196c32019bb8e568e7b1d819ee4"
+      },
+      "sig": "fbc6724b75d1ed644224456ed8383c720870b6de89521f4ce5b1573e99899571010066d13c51ea41f0d334815ad851f9a4efe07415bc6f0f0b8411445bd96103"
     }
   },
   "revoked": [],
   "crl_check_interval": 15,
-  "crl_timeout": 5,
-  "config_sig": "90e5c0f435170a821c394a1a37adf056b60b54ee9bd8800511039cf1d46d86f21b4359ca9ae8c32c940d40b52af7335746d4699ce27fb66b6710c8f856a3d106"
+  "crl_timeout": 5
 }
