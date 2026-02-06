@@ -8,6 +8,15 @@
         "hw_hash": "f1dc66b644c937109fcf02b1bccdf180128b7f46000587dd6b2ee80fc669c6f2"
       },
       "sig": "d84e849d058efd39eab3ef45b4f90b06c3ebd4a6be36de1b41e77afbbd1c2148480d8d62e100e2f856ca39e8e1183da43d1cbe981808ce083b8bd9003a166e06"
+    },
+    "5f154b88abf7220563105aeeec792798866f66bc2f976da8fa18bd271dc76032": {
+      "payload": {
+        "user_id": "akwa",
+        "issued_at": 1770420245,
+        "expiry": 1801956245,
+        "hw_hash": "5f154b88abf7220563105aeeec792798866f66bc2f976da8fa18bd271dc76032"
+      },
+      "sig": "42a4aa1a19174d34b3703819a79714217e7bb805c8af48afebc66fd871de73493d787513efe93b3f6e5643f1562837852b7cf91b41f35614d402ff1e580e780d"
     }
   },
   "revoked": [],
