@@ -1,0 +1,16 @@
+{
+  "licenses": {
+    "f1dc66b644c937109fcf02b1bccdf180128b7f46000587dd6b2ee80fc669c6f2": {
+      "payload": {
+        "user_id": "sendbox",
+        "issued_at": 1770417053,
+        "expiry": 1801953053,
+        "hw_hash": "f1dc66b644c937109fcf02b1bccdf180128b7f46000587dd6b2ee80fc669c6f2"
+      },
+      "sig": "d84e849d058efd39eab3ef45b4f90b06c3ebd4a6be36de1b41e77afbbd1c2148480d8d62e100e2f856ca39e8e1183da43d1cbe981808ce083b8bd9003a166e06"
+    }
+  },
+  "revoked": [],
+  "crl_check_interval": 15,
+  "crl_timeout": 5
+}
