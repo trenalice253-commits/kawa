@@ -17,6 +17,15 @@
         "hw_hash": "1568044a8ae837359a4c521d00a2a2079869dcc9287fbf36ed919369877cb722"
       },
       "sig": "87f6d6662cd8f0eb11a226f779a995f25dbac5b2339c996a1d696ad75062de89c99b37b1718ef90d44fefb4f484716070e92d0668766054d9b089a54ea4d250d"
+    },
+    "3b4ef042546902bbdb1ccab7843d476aa0687869d1dc8f7ab325a1f0f9b6057d": {
+      "payload": {
+        "user_id": "Hamza  beta Trial",
+        "issued_at": 1771895464,
+        "expiry": 4925491864,
+        "hw_hash": "3b4ef042546902bbdb1ccab7843d476aa0687869d1dc8f7ab325a1f0f9b6057d"
+      },
+      "sig": "cd106e3825ed2b9c23c835103b5af12ef658ec6b600f84eeba466e98ab35a3e1e39a58824eababb2ce40fd75496c16516c90b0b9c448344c850721588a52c706"
     }
   },
   "revoked": [],
