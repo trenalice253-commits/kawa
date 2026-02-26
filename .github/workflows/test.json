@@ -1,14 +1,5 @@
 {
   "licenses": {
-    "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d": {
-      "payload": {
-        "user_id": "akwadev",
-        "issued_at": 1769032428,
-        "expiry": 4922632428,
-        "hw_hash": "071cb12037d5e3b3ce796b50db2ac3ca8618076203a7e7311f3f94e943507a9d"
-      },
-      "sig": "b53da3608b48c65baa705d9921edcbb896d802fd1b5cf700010ad7a43be31bb54252e8bbebd0fff4422c21839661bbb8e5df211a8d5cb9bfea1c101d42b7af08"
-    },
     "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
       "payload": {
         "user_id": "sara",
@@ -35,6 +26,15 @@
         "hw_hash": "3b4ef042546902bbdb1ccab7843d476aa0687869d1dc8f7ab325a1f0f9b6057d"
       },
       "sig": "3c980f34a460766b74f90503d29d75abb57d099d5d4eb4d125bb0f925cfe3d3f9ff21677618a782348c41cad7a8abc71ba999536222788763716bd1140a0e80c"
+    },
+    "5f154b88abf7220563105aeeec792798866f66bc2f976da8fa18bd271dc76032": {
+      "payload": {
+        "user_id": "AKWA",
+        "issued_at": 1772113354,
+        "expiry": 1803649354,
+        "hw_hash": "5f154b88abf7220563105aeeec792798866f66bc2f976da8fa18bd271dc76032"
+      },
+      "sig": "c7a2ec55ed2307feb640ab04ce2240694c80592442152d2416980363458b4dd68670b06e0e9d9ec7f8e95e0b2c76b3564b7d8add60cc31fa88e29fa6e6472a06"
     }
   },
   "revoked": [],
