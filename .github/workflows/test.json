@@ -35,6 +35,15 @@
         "hw_hash": "5f154b88abf7220563105aeeec792798866f66bc2f976da8fa18bd271dc76032"
       },
       "sig": "c7a2ec55ed2307feb640ab04ce2240694c80592442152d2416980363458b4dd68670b06e0e9d9ec7f8e95e0b2c76b3564b7d8add60cc31fa88e29fa6e6472a06"
+    },
+    "cd1358d9790087106c54bfa18f1d659618e83e5ae6b458350847080959f05acb": {
+      "payload": {
+        "user_id": "akwa2",
+        "issued_at": 1773778318,
+        "expiry": 1805314318,
+        "hw_hash": "cd1358d9790087106c54bfa18f1d659618e83e5ae6b458350847080959f05acb"
+      },
+      "sig": "b4d4d441aea23c4bbf8d275cd59c64b0856a351c734e32f8a2ef5619e4c2bc5d3cd30ac5a4d0d6dbf5b85d9b94e3f16e761ba92cfd94938fbed86e865dc6650b"
     }
   },
   "revoked": [],
