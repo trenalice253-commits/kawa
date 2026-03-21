@@ -39,11 +39,11 @@
     "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb": {
       "payload": {
         "user_id": "developer",
-        "issued_at": 1774091149,
-        "expiry": 1805627149,
+        "issued_at": 1774091311,
+        "expiry": 1805627311,
         "hw_hash": "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb"
       },
-      "sig": "9aff039e77673fd852d96e975bba3b0d78f6c95df988cf9eb911511edbd8c2cfd2d62477818090cac0c37f7fd89230ef389050e80a14cdd7c30aa9a218b9470c"
+      "sig": "f306c75686e1bc346ceab584cfdaa56c54777b6466ac96d3b486e005f2ae9c64622bf86b60a8a1bae960a8e2e556d01515fac4d5c5f212dc53dbc0943faaab09"
     }
   },
   "revoked": [],
