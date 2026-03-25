@@ -18,15 +18,6 @@
       },
       "sig": "87f6d6662cd8f0eb11a226f779a995f25dbac5b2339c996a1d696ad75062de89c99b37b1718ef90d44fefb4f484716070e92d0668766054d9b089a54ea4d250d"
     },
-    "3b4ef042546902bbdb1ccab7843d476aa0687869d1dc8f7ab325a1f0f9b6057d": {
-      "payload": {
-        "user_id": "Hamza  beta Trial",
-        "issued_at": 1771895464,
-        "expiry": 4925491864,
-        "hw_hash": "3b4ef042546902bbdb1ccab7843d476aa0687869d1dc8f7ab325a1f0f9b6057d"
-      },
-      "sig": "cd106e3825ed2b9c23c835103b5af12ef658ec6b600f84eeba466e98ab35a3e1e39a58824eababb2ce40fd75496c16516c90b0b9c448344c850721588a52c706"
-    },
     "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
       "payload": {
         "user_id": "Sara beta trial",
@@ -35,6 +26,15 @@
         "hw_hash": "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92"
       },
       "sig": "f34074ce373f5f8de5fb0235f39c6dd2d3ba7d9bf7cd8cc8d3cf4e796a58ac0c52836173d93be42f72291aeb9234f6645e6eae26bacd61b3b7e867a55b586707"
+    },
+    "37f3a7511eaf75f66476d1c420a1ad643fc9f977f58bcf1e47e010479ba21192": {
+      "payload": {
+        "user_id": "Hamza beta trial",
+        "issued_at": 1774468946,
+        "expiry": 1806008546,
+        "hw_hash": "37f3a7511eaf75f66476d1c420a1ad643fc9f977f58bcf1e47e010479ba21192"
+      },
+      "sig": "0d9923617b39f8528ff774b74cda234a48790bc1c8ccaacfdcafe0b603d83ece2e1c989a8ff89dd79c536bdec704c1b4fbdd28dcdda22925b774340415386801"
     }
   },
   "revoked": [],
