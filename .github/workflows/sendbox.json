@@ -9,15 +9,6 @@
       },
       "sig": "42a4aa1a19174d34b3703819a79714217e7bb805c8af48afebc66fd871de73493d787513efe93b3f6e5643f1562837852b7cf91b41f35614d402ff1e580e780d"
     },
-    "1568044a8ae837359a4c521d00a2a2079869dcc9287fbf36ed919369877cb722": {
-      "payload": {
-        "user_id": "SNADBOX",
-        "issued_at": 1771366573,
-        "expiry": 1802898973,
-        "hw_hash": "1568044a8ae837359a4c521d00a2a2079869dcc9287fbf36ed919369877cb722"
-      },
-      "sig": "87f6d6662cd8f0eb11a226f779a995f25dbac5b2339c996a1d696ad75062de89c99b37b1718ef90d44fefb4f484716070e92d0668766054d9b089a54ea4d250d"
-    },
     "f78c378a4726892f61c708001245d7c60c3ed3d4cd1899e81dd7a2caa6eaae92": {
       "payload": {
         "user_id": "Sara beta trial",
@@ -35,6 +26,15 @@
         "hw_hash": "37f3a7511eaf75f66476d1c420a1ad643fc9f977f58bcf1e47e010479ba21192"
       },
       "sig": "0d9923617b39f8528ff774b74cda234a48790bc1c8ccaacfdcafe0b603d83ece2e1c989a8ff89dd79c536bdec704c1b4fbdd28dcdda22925b774340415386801"
+    },
+    "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb": {
+      "payload": {
+        "user_id": "developer beta",
+        "issued_at": 1775063360,
+        "expiry": 1806599360,
+        "hw_hash": "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb"
+      },
+      "sig": "0b42dd9348d441973f86a0873119128068c9a45d699a3c696edf8c5f24777cbee9d94001229ad64e59c1a9eb578c1acc46af01a34e01eb48c1250081571d2403"
     }
   },
   "revoked": [],
