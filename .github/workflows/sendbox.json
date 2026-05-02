@@ -27,14 +27,14 @@
       },
       "sig": "f34074ce373f5f8de5fb0235f39c6dd2d3ba7d9bf7cd8cc8d3cf4e796a58ac0c52836173d93be42f72291aeb9234f6645e6eae26bacd61b3b7e867a55b586707"
     },
-    "50d169032a37b2ed384aca8485eceecb5b51ba90df60979be56f14e05b91d030": {
+    "0f134dd435be90f0c6f767c617dd8efa951da2da6e1f017012f6b8abb85c636c": {
       "payload": {
-        "user_id": "Hamza beta trial",
-        "issued_at": 1775234001,
-        "expiry": 1806770001,
-        "hw_hash": "50d169032a37b2ed384aca8485eceecb5b51ba90df60979be56f14e05b91d030"
+        "user_id": "Hamza  beta trial",
+        "issued_at": 1777737139,
+        "expiry": 1809273139,
+        "hw_hash": "0f134dd435be90f0c6f767c617dd8efa951da2da6e1f017012f6b8abb85c636c"
       },
-      "sig": "712bbea8d4ceb62924a5fd2749fd43407458aeb0df549d0047a7aaef2953a407115c89bbefa88c051448e9496af73b6d3f87a5be0ea439b6a827bbadead16608"
+      "sig": "ff2fd3481a679b4a00e2fa5296075832fc949fee2219c917b06f976bf6dfa59a34f937efb40da2fcc52b4f64a6e00de76637fa41ddfc9b8d5514408c569ae301"
     }
   },
   "revoked": [],
