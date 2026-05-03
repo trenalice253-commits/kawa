@@ -27,15 +27,6 @@
       },
       "sig": "c7a2ec55ed2307feb640ab04ce2240694c80592442152d2416980363458b4dd68670b06e0e9d9ec7f8e95e0b2c76b3564b7d8add60cc31fa88e29fa6e6472a06"
     },
-    "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb": {
-      "payload": {
-        "user_id": "developer",
-        "issued_at": 1774091311,
-        "expiry": 1805627311,
-        "hw_hash": "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb"
-      },
-      "sig": "f306c75686e1bc346ceab584cfdaa56c54777b6466ac96d3b486e005f2ae9c64622bf86b60a8a1bae960a8e2e556d01515fac4d5c5f212dc53dbc0943faaab09"
-    },
     "12f0c6d2f94e68e530e825ae5f0c625245d58b4bfa038bf320d078a46b9fef53": {
       "payload": {
         "user_id": "Mohamed",
@@ -53,6 +44,15 @@
         "hw_hash": "0f134dd435be90f0c6f767c617dd8efa951da2da6e1f017012f6b8abb85c636c"
       },
       "sig": "4caa31b16acb7e00e57be1db78665b8a3a3433506560a83a188e5a6ed0ee4307c7392c0dae94551091ccf92d347b17e1484ba08beec075196d692cbc8c1e5006"
+    },
+    "4e6c4bd2c044fbe4446f4066257485b1a46abf63f7838b53655eab85d3330703": {
+      "payload": {
+        "user_id": "developer",
+        "issued_at": 1777828808,
+        "expiry": 1809364808,
+        "hw_hash": "4e6c4bd2c044fbe4446f4066257485b1a46abf63f7838b53655eab85d3330703"
+      },
+      "sig": "875a37df6b827d338146a1102af5c136ca4a629520886826c360f4cc24d7967ced3dda7e711e3ea25ed11dd1fc1b74327e621d1b0a8dfee861b95dd41f8f6f0a"
     }
   },
   "revoked": [],
