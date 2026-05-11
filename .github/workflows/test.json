@@ -45,14 +45,14 @@
       },
       "sig": "4caa31b16acb7e00e57be1db78665b8a3a3433506560a83a188e5a6ed0ee4307c7392c0dae94551091ccf92d347b17e1484ba08beec075196d692cbc8c1e5006"
     },
-    "4e6c4bd2c044fbe4446f4066257485b1a46abf63f7838b53655eab85d3330703": {
+    "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb": {
       "payload": {
         "user_id": "akwa-dev",
-        "issued_at": 1777828932,
-        "expiry": 1809364932,
-        "hw_hash": "4e6c4bd2c044fbe4446f4066257485b1a46abf63f7838b53655eab85d3330703"
+        "issued_at": 1778521359,
+        "expiry": 1810057359,
+        "hw_hash": "39b5865d73a7091d37da7b151b8ce75816f4907f6bb7e29e36c992a568f5c7eb"
       },
-      "sig": "6a7d0ae6ede120fa286771f2c5db8a14e365ed8f7dc6657476f5a8554460b0efa0aae1cf7a412b683accf6db69c9173566d1367cdfcfc839dc480aca93c97a0f"
+      "sig": "0de0cb57fdd67b2cc1b232eb51615cc37524703fa00ae46774973c0878496eeae09153ab6af422c7d70f811003e8e7963cbc5e7470971df45e63fabf215f780f"
     }
   },
   "revoked": [],
