@@ -1,0 +1,41 @@
+[
+    {
+        "domain": "app.pinclicks.com",
+        "expirationDate": 1820539148.58424,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6Ik5qQzZoS2ZuS245U0p5czhiQUtvMnc9PSIsInZhbHVlIjoiS2d3QTk1ak1POVJuamVHMHRQemN0bExwS3IvYzZOdC9sME54dmlxWjRaT3N5RnZBQWQyT2pFdmdtTms1SHhQNzdvSGFuVnVYWjUwdXU5SmV0ZXpxV1ZIZTB2bFpIT2pvUWNza3luYmFMNVZlTXB4MFZnblJPY1N3OVBlbHJNUUFFQy9Yc0NteHVvL1ArQ0p1ckRJcWYzWUtZMDIwSC94cnN4aklwV2E1VEpCZzA5amJCNHo2eTdtUjZkQ01UNWZBOVZTZDR6eDRISjVTWk5yMzBxYlViczhnZ0JhQWRkekU2YWs4U1cvSFJzQT0iLCJtYWMiOiI2Y2YwM2FiZDBiZTk2ZmM0NDU3NTJkMDk0ZjZkOGVmMGY4NTc0ZWNkODNiMDg4NmE1ODczNTM1YmNkMmNlZmEyIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "app.pinclicks.com",
+        "expirationDate": 1786120669.615269,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6ImVZNTkzMG5yeHFEbzQ1ME5RSm1TSGc9PSIsInZhbHVlIjoicXNCUGZrRzluTUV1dkNpM0g2bnhPeDJxWW9LMDBxZ0Y1WUJGemZuT05id3hIaU92K3o2cEpKbW92L1VjdUVpVjAraFRKTEFNM05LNDNBV2lsdHNrWkVUVFZGVzNzbEF2dHZ3OG01a205c2NiVlRoOVJjczgxWkg1UkJvVG16RVciLCJtYWMiOiJjY2FhMzk1NWU2MzAyODU4YWIxZjE1YmU3ZmUzNmEwMGI3NjRhOTFiOGZlZGY4M2U5NWU5YzQ1NjcyMDliYTJjIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": ".pinclicks.com",
+        "expirationDate": 1817515149.859356,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_iidt",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "+encpyNIvdCaIpXVlITAfgLCt9R70hWWDfJVGeoXYRRTEJaDFYS4QDEDPafQCPX7SWQ0FNRmdS8AIDZ0x+UbReLGDRSd3S+c4/CaBO0="
+    }
+]
